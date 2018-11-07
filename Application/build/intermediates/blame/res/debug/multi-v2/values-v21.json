@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "677",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "753"
+                    },
+                    "to": {
+                        "startLines": "279",
+                        "startColumns": "4",
+                        "startOffsets": "20424",
+                        "endLines": "280",
+                        "endColumns": "12",
+                        "endOffsets": "20500"
+                    }
+                },
                 {
                     "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\be7d651f27dcb07ff0401cbd3b94d54b\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -58,25 +77,6 @@
                         "endLines": "267,270,274,278",
                         "endColumns": "12,12,12,12",
                         "endOffsets": "19667,19830,20124,20419"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",
-                    "from": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "677",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "753"
-                    },
-                    "to": {
-                        "startLines": "279",
-                        "startColumns": "4",
-                        "startOffsets": "20424",
-                        "endLines": "280",
-                        "endColumns": "12",
-                        "endOffsets": "20500"
                     }
                 }
             ]

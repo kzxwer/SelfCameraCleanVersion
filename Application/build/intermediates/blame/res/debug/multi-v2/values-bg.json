@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
+            "outputFile": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
             "map": [
                 {
                     "source": "C:\\Users\\pc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\7e320c2bc1464014ba4f1baf59b1c47e\\res\\values-bg\\values-bg.xml",

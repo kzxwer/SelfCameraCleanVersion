@@ -1,23 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "8,7,9,6,13,5,11,3,4,10,20,16,18,15,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "325,282,370,227,515,172,467,56,109,417,790,619,729,571,675",
-                        "endColumns": "44,42,46,54,54,54,46,52,62,49,37,55,59,47,53",
-                        "endOffsets": "365,320,412,277,565,222,509,104,167,462,823,670,784,614,724"
+                        "startLines": "3,4",
+                        "startColumns": "2,2",
+                        "startOffsets": "85,141",
+                        "endColumns": "55,53",
+                        "endOffsets": "138,192"
                     },
                     "to": {
-                        "startLines": "609,610,611,612,613,614,615,616,618,619,620,621,622,633,636",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "53234,53279,53322,53369,53424,53479,53534,53581,53684,53747,53797,53835,53891,54235,54407",
-                        "endColumns": "44,42,46,54,54,54,46,52,62,49,37,55,59,47,53",
-                        "endOffsets": "53274,53317,53364,53419,53474,53529,53576,53629,53742,53792,53830,53886,53946,54278,54456"
+                        "startLines": "508,509",
+                        "startColumns": "4,4",
+                        "startOffsets": "46679,46737",
+                        "endColumns": "57,55",
+                        "endOffsets": "46732,46788"
                     }
                 },
                 {
@@ -95,7 +95,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "3,5,6,4,2",
                         "startColumns": "4,4,4,4,4",
@@ -148,37 +148,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\src\\main\\res\\values\\base-strings.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "2,2",
-                        "startOffsets": "85,141",
-                        "endColumns": "55,53",
-                        "endOffsets": "138,192"
-                    },
-                    "to": {
-                        "startLines": "508,509",
+                        "startLines": "18,19",
                         "startColumns": "4,4",
-                        "startOffsets": "46679,46737",
-                        "endColumns": "57,55",
-                        "endOffsets": "46732,46788"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\src\\main\\res\\values\\ids.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
+                        "startOffsets": "647,697",
+                        "endLines": "18,28",
+                        "endColumns": "49,13",
+                        "endOffsets": "692,976"
                     },
                     "to": {
-                        "startLines": "563",
-                        "startColumns": "4",
-                        "startOffsets": "50292",
-                        "endColumns": "45",
-                        "endOffsets": "50333"
+                        "startLines": "617,623",
+                        "startColumns": "4,4",
+                        "startOffsets": "53634,53951",
+                        "endLines": "617,632",
+                        "endColumns": "49,13",
+                        "endOffsets": "53679,54230"
                     }
                 },
                 {
@@ -201,22 +186,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCamera2-master\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\src\\main\\res\\values\\ids.xml",
                     "from": {
-                        "startLines": "18,19",
-                        "startColumns": "4,4",
-                        "startOffsets": "647,697",
-                        "endLines": "18,28",
-                        "endColumns": "49,13",
-                        "endOffsets": "692,976"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
                     },
                     "to": {
-                        "startLines": "617,623",
-                        "startColumns": "4,4",
-                        "startOffsets": "53634,53951",
-                        "endLines": "617,632",
-                        "endColumns": "49,13",
-                        "endOffsets": "53679,54230"
+                        "startLines": "563",
+                        "startColumns": "4",
+                        "startOffsets": "50292",
+                        "endColumns": "45",
+                        "endOffsets": "50333"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,7,9,6,13,5,11,3,4,10,20,16,18,15,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "325,282,370,227,515,172,467,56,109,417,790,619,729,571,675",
+                        "endColumns": "44,42,46,54,54,54,46,52,62,49,37,55,59,47,53",
+                        "endOffsets": "365,320,412,277,565,222,509,104,167,462,823,670,784,614,724"
+                    },
+                    "to": {
+                        "startLines": "609,610,611,612,613,614,615,616,618,619,620,621,622,633,636",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "53234,53279,53322,53369,53424,53479,53534,53581,53684,53747,53797,53835,53891,54235,54407",
+                        "endColumns": "44,42,46,54,54,54,46,52,62,49,37,55,59,47,53",
+                        "endOffsets": "53274,53317,53364,53419,53474,53529,53576,53629,53742,53792,53830,53886,53946,54278,54456"
                     }
                 }
             ]

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\cse223\Desktop\SelfCamera2-master\SelfCamera2-master\Application\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\cse223\Desktop\SelfCamera2-master\SelfCamera2-master\Application\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\pc\Desktop\selfCamera2\SelfCameraFilter\Application\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\pc\Desktop\selfCamera2\SelfCameraFilter\Application\src\debug\jniLibs"/></dataSet></merger>

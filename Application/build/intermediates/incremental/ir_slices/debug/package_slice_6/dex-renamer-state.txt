@@ -1,4 +1,4 @@
-#Tue Oct 16 21:39:34 KST 2018
-base.0=C\:\\Users\\cse223\\Desktop\\SelfCamera2-master\\SelfCamera2-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+#Thu Nov 08 00:08:00 KST 2018
+base.0=C\:\\Users\\pc\\Desktop\\selfCamera2\\SelfCameraFilter\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\6
 path.0=classes.dex
 renamed.0=classes.dex
